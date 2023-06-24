@@ -1,0 +1,21 @@
+:root{
+    --color:rgb(69, 63, 63);
+}
+.bg-color{
+    background-color: var(--color) !important;
+}
+.btn-bg-color{
+    background-color: #088178 !important;
+}
+footer{
+position: relative;
+    bottom: 0;
+}
+.form-control{
+    border: 1px solid #b3a1a1 !important;
+    padding: 8px 10px;
+}
+.form-select{
+    border: 1px solid #b3a1a1 !important;
+    padding: 8px 10px;
+}
